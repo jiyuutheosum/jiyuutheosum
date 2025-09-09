@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/IC5l.gif" width="100%" height=200px alt="starry">
+<img src="https://i.gifer.com/IC5l.gif" width="100%" height="100%" alt="starry">
 
 <img align="right" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
 
