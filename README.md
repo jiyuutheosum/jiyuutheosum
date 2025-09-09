@@ -1,8 +1,8 @@
-<img src="https://media1.tenor.com/m/ztyqciLlYiYAAAAd/doctor-who-the-starry-night.gif" width="100%" height=200px alt="starry">
+<img src="https://i.gifer.com/IC5l.gif" width="100%" height=200px alt="starry">
 
 <img align="right" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
 
-<h1 align="left">Hi 👋, I'm Jiyuu</h1>
+<h1 align="left">Hi! I'm Jiyuu 👋</h1>
 <h3 align="left">A BSIT Student that loves to sleep</h3>
 
 <h3 align="left">Connect with me:</h3>
