@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
 
-<h1 align="left">Hi! I'm Jiyuu 👋</h1>
+<h1 align="left">Hi! I'm <a href="https://jiyuutheosum.vercel.app" target="_blank">Jiyuu Baraocor</a> <img src="https://komarev.com/ghpvc/?username=jiyuutheosum&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" /> 👋</h1>
 <h3 align="left">A BSIT Student that loves to sleep</h3>
 
 <h3 align="left">Connect with me:</h3>
