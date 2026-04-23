@@ -3,7 +3,6 @@
 <img align="right" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
 
 <h1 align="left">Hi! I'm <a href="https://jiyuutheosum.vercel.app" target="_blank">Jiyuu 👋</a> <img src="https://komarev.com/ghpvc/?username=jiyuutheosum&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" /></h1>
-###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jiyuzxc) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jiyuutheosum) 
